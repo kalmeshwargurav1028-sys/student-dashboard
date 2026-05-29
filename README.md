@@ -94,5 +94,15 @@ A comprehensive web-based student management dashboard built with Flask and Mong
 
 This project is licensed under the MIT License.
 
+Flask==3.0.0
+Flask-Mail==0.10.0
+Werkzeug>=3.0.0
+google-generativeai
+python-dotenv
+twilio
+sendgrid
+pymongo
+
+
 
 
